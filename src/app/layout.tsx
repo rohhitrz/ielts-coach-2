@@ -22,7 +22,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "IELTS Coach - Kiro Style",
+  title: "IELTS Coach",
   description: "Practice IELTS writing and speaking tasks with AI evaluation - Powered by Kiro",
 };
 
